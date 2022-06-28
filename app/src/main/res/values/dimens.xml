@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="larg_space">16dp</dimen>
+    <dimen name="normal_space">12dp</dimen>
+    <dimen name="small_space">8dp</dimen>
+    <dimen name="special_space">10dp</dimen>
+    <dimen name="main_image_size">93dp</dimen>
+    <dimen name="larg_text">16sp</dimen>
+    <dimen name="normal_text">12sp</dimen>
+    <dimen name="special_text">13sp</dimen>
+    <dimen name="very_small_space">4dp</dimen>
+    <dimen name="space_9_dp">9dp</dimen>
+</resources>
